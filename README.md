@@ -45,7 +45,7 @@ The program uses a GUI interface for user interaction.
 ### Steps
 1. Clone this repository:
     ```bash
-    git clone https://github.com/hamidras000/MPPS-design/tree/main
+    git clone https://github.com/hamidras000/MPPS-design.git
     ```
 2. Navigate to the project folder:
     ```bash
